@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head> 
+
+<title> Miron Etusivu </title>
+
+</head> 
+
+
+<body>
+
+
+
+<script>
+window.location.href = "etusivu.php";
+</script>
+
+
+<div style="background-color:#00FF03; color:#B600FF; text-align: center">
+
+<p style="font-size:70px"> WEBSITE </p>
+
+
+
+
+<p style="font-size:55px"> Tässä minun esimerkkilinkki </p>
+
+
+<a style="font-size:55px" href="https://youtube.com/" target=”_blank”> YOUTUBE </a>
+
+<p> 🚮 </p>
+
+<a href="https://fi.wikipedia.org/wiki/Wikipedia:Etusivu" target="_blank"> WIKIPEDIA </a>
+
+<p> 🚮 </p>
+
+<a href="https://www.twitch.tv" target="_blank"> TWITCH </a>
+
+<p> 🚮 </p>
+
+<a style="font-size:30px" href="/miro/toinensivu.php" >  Toinen sivu  </a>
+
+
+<p style="font-size:25px"> &#129502; &#129502; &#129502;  </p>
+
+<p style="font-size:30px"> &#129499; &#129499; &#129499; </p>
+
+<p style="font-size:50px"> &#128511; &#128511; &#128511; </p>
+
+<p> ... </p>
+
+</div>
+
+</body>
+
+
+
+</html>
